@@ -17,6 +17,10 @@ const { Content } = await entry.render();
 ---
 
 <Main title={entry.data.title}>
+  <h2 class="text-xl text-subtext1">{entry.data.date.toDateString()}</h2>
+
+  <hr class="h-px w-2/6 my-8 border-surface0" />
+
   <Prose>
     <Content />
   </Prose>
