@@ -8,4 +8,4 @@ Such a generic name but such possiblities!!! Currently it just renders markdown 
 
 *© 2024 Kieran Klukas*  
 *The code and design are licensed under [AGPL 3.0](LICENSE.md)*  
-*the contents of `src/content` all rights reserved*
+*The contents of `src/content` all rights reserved*
