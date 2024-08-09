@@ -1,5 +1,6 @@
 ---
 const { title } = Astro.props;
+import "printed";
 ---
 
 <html lang="en">
@@ -11,7 +12,7 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="latte dark:macchiato bg-base">
-    <a href="/" class="absolute top-4 left-4" title="Home">
+    <a href="/" class="absolute top-4 left-4 hide" title="Home">
       <svg
         class="h-12 w-12 text-subtext1"
         fill-rule="evenodd"
@@ -41,7 +42,7 @@ const { title } = Astro.props;
 
       <slot />
     </main>
-    <footer>
+    <footer class="hide">
       <p class="text-subtext0 text-center pb-4">
         &copy; 2024 Kieran Klukas. All rights reserved.
       </p>
