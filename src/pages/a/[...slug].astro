@@ -1,5 +1,6 @@
 ---
 import Main from "../../layouts/main.astro";
+import Prose from "../../layouts/prose.astro";
 
 import { getCollection } from "astro:content";
 // 1. Generate a new path for every collection entry
@@ -16,12 +17,7 @@ const { Content } = await entry.render();
 ---
 
 <Main title={entry.data.title}>
-  <div
-    class="prose dark:prose-invert
-  prose-h1:font-bold prose-h1:text-xl
-  prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl
-  prose-headings:underline"
-  >
+  <Prose>
     <Content />
-  </div>
+  </Prose>
 </Main>
