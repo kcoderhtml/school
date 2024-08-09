@@ -10,19 +10,62 @@ const assignments = await getCollection("a");
     You can see all the asignents for {import.meta.env.FNAME} below.
   </p>
 
-  <h2 class="text-2xl p-3">Assignments:</h2>
-  <ul>
+  <h2 class="text-3xl p-3">Assignments:</h2>
+  <ul class="p-2">
     {
-      assignments.map((entry) => (
-        <li class="list-disc">
-          <a
-            href={"a/" + entry.slug}
-            class="text-blue hover:text-green hover:underline"
-          >
-            {entry.data.date.toDateString()} - {entry.data.title}
-          </a>
-        </li>
-      ))
+      () => {
+        // get all the different years
+        const years: number[] = Array.from(
+          new Set(assignments.map((a) => a.data.date.getFullYear()))
+        );
+
+        return years.map((year) => {
+          const months: string[] = Array.from(
+            new Set(
+              assignments
+                .filter((a) => a.data.date.getFullYear() === year)
+                .map((a) =>
+                  a.data.date.toLocaleString("default", { month: "long" })
+                )
+            )
+          );
+
+          return (
+            <li class="list-disc list-inside text-2xl p-2">
+              {year}:
+              <ul>
+                {months.map((month) => (
+                  <li class="list-disc list-inside text-xl p-2">
+                    {month}:
+                    <ul>
+                      {assignments
+                        .filter((a) => a.data.date.getFullYear() === year)
+                        .filter(
+                          (a) =>
+                            a.data.date.toLocaleString("default", {
+                              month: "long",
+                            }) === month
+                        )
+                        .map((a) => {
+                          return (
+                            <li class="p-2 list-disc list-inside text-sm">
+                              <a
+                                href={`/a/${a.slug}`}
+                                class="text-blue hover:text-green hover:underline"
+                              >
+                                {a.data.title} - {a.data.date.toDateString()}
+                              </a>
+                            </li>
+                          );
+                        })}
+                    </ul>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          );
+        });
+      }
     }
   </ul>
 </Main>
