@@ -1,46 +1,24 @@
 ---
-import { getCollection } from "astro:content";
+import Main from "../layouts/main.astro";
 
+import { getCollection } from "astro:content";
 const assignments = await getCollection("a");
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>{import.meta.env.FNAME + "'s"} School Portal</title>
-  </head>
-  <body class="latte dark:macchiato bg-base">
-    <main
-      class="flex flex-col items-center p-4 text-text"
-      style="height: 97vh;"
-    >
-      <h1 class="text-4xl p-2">
-        {import.meta.env.FNAME + "'s"} School Portal
-      </h1>
+<Main title={import.meta.env.FNAME + "'s School Portal"}>
+  <p class="p-2">
+    You can see all the asignents for {import.meta.env.FNAME + "'s"} school asignments
 
-      <p class="p-2">
-        You can see all the asignents for {import.meta.env.FNAME + "'s"} school asignments
-      </p>
-
-      <ul>
-        {
-          assignments.map((entry) => (
-            <li>
-              <a href={"a/" + entry.slug}>
-                {entry.data.date.toDateString()} - {entry.data.title}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
-    </main>
-    <footer>
-      <p class="text-subtext0 text-center pb-4">
-        &copy; 2024 Kieran Klukas. All rights reserved.
-      </p>
-    </footer>
-  </body>
-</html>
+    <ul>
+      {
+        assignments.map((entry) => (
+          <li>
+            <a href={"a/" + entry.slug}>
+              {entry.data.date.toDateString()} - {entry.data.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </p>
+</Main>
