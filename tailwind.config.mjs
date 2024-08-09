@@ -4,5 +4,8 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [require("@catppuccin/tailwindcss")],
+  plugins: [
+    require("@catppuccin/tailwindcss"),
+    require("@tailwindcss/typography"),
+  ],
 };

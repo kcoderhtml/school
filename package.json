@@ -17,6 +17,7 @@
     "typescript": "^5.5.4"
   },
   "devDependencies": {
-    "@catppuccin/tailwindcss": "^0.1.6"
+    "@catppuccin/tailwindcss": "^0.1.6",
+    "@tailwindcss/typography": "^0.5.14"
   }
 }
