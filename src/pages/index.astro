@@ -8,14 +8,16 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
+    <title>{import.meta.env.FNAME + "'s"} School Portal</title>
   </head>
   <body class="latte dark:macchiato bg-base">
-    <main class="flex flex-col items-center p-2" style="height: 98vh;">
-      <h1 class="text-text text-4xl">Astro</h1>
+    <main class="flex flex-col items-center p-4" style="height: 97vh;">
+      <h1 class="text-text text-4xl">
+        {import.meta.env.FNAME + "'s"} School Portal
+      </h1>
     </main>
     <footer>
-      <p class="text-subtext0 text-center">
+      <p class="text-subtext0 text-center pb-4">
         &copy; 2024 Kieran Klukas. All rights reserved.
       </p>
     </footer>
