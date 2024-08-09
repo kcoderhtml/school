@@ -2,7 +2,9 @@
 import Main from "../layouts/main.astro";
 
 import { getCollection } from "astro:content";
-const assignments = await getCollection("a");
+const assignments = (await getCollection("a")).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
 ---
 
 <Main title={import.meta.env.FNAME + "'s School Portal"}>
@@ -19,7 +21,7 @@ const assignments = await getCollection("a");
           new Set(assignments.map((a) => a.data.date.getFullYear()))
         );
 
-        return years.map((year) => {
+        return years.map((year, i) => {
           const months: string[] = Array.from(
             new Set(
               assignments
@@ -31,12 +33,12 @@ const assignments = await getCollection("a");
           );
 
           return (
-            <li class="list-disc list-inside text-2xl p-2">
-              {year}:
+            <details open={i == 0}>
+              <summary class="list-inside text-2xl p-2">{year}:</summary>
               <ul>
-                {months.map((month) => (
-                  <li class="list-disc list-inside text-xl p-2">
-                    {month}:
+                {months.map((month, i) => (
+                  <details open={i == 0}>
+                    <summary class="list-inside text-xl p-2">{month}:</summary>
                     <ul>
                       {assignments
                         .filter((a) => a.data.date.getFullYear() === year)
@@ -59,10 +61,10 @@ const assignments = await getCollection("a");
                           );
                         })}
                     </ul>
-                  </li>
+                  </details>
                 ))}
               </ul>
-            </li>
+            </details>
           );
         });
       }
