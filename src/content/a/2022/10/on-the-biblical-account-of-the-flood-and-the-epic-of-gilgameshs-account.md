@@ -1,0 +1,18 @@
+---
+title: On the Biblical Account of the Flood and The Epic of Gilgamesh’s Account
+date: 2022-10-08
+---
+
+*Kieran Klukas*  
+*Carrie Klukas*  
+*Writing*  
+
+On October 6, 2021, TheIsraelBible.com wrote “A close comparison of the two accounts shows that the Torah diverges sharply from Gilgamesh offering a morally superior explanation of the widespread knowledge that a major flood did in fact occur.” The Epic of Gilgamesh and the Biblical Flood account have significant similarities in their storyline leading some to suggest that they were derived from the same event. Further, some also claim that the Biblical account was established from or copied from the Epic of Gilgamesh. We will explore these ideas by contrasting the similarities and discrepancies and looking at the reasoning for the flood, the preparation before the flood, and the ending and aftermath of the flood.  
+
+First, we have the reasoning for the flood; in the Genesis account, the people on earth have become too corrupt to live, so a flood is prepared to wipe out humanity from the face of the planet. In the Epic of Gilgamesh Enlil, one of the gods dislikes the sounds of the city on earth as he says it makes it impossible to sleep, so he gets the gods to agree to wipe out the mortals on earth. In this section, the main difference between the narratives is people being wicked versus people being an annoyance to a god.  
+
+Second, we have the preparation for the flood; In the Epic of Gilgamesh, the God Ea objects to destroying human life as being too rash and tells Utnapishtim a mortal man to take apart his house and make it into a boat. In the Genesis account, Noah is picked as the only righteous man left on earth to build a boat to save himself and his family from the flood. This section has both men told to build a boat to save their families and two of each animal on earth. Its main difference is that the Epic of Gilgamesh has workmen help Utnapishtim build the boat and launch it into the water while the Genesis account does not specify whether workmen helped Noah and the finished boat is also not launched into the water.  
+
+Third, we have the ending and aftermath of the flood; In the Genesis account, the flood lasted 40 days and nights and when it came to an end Noah sent forth a raven and then a dove when both returned he waited a week and sent forth the dove again which returned with an olive leaf. The Epic of Gilgamesh has the waters rage for 6 days and nights at the end Utnapishtim sees a mountain rising out of the sea and sails toward it for six days and nights then he releases first a dove than a swallow and finally a raven who doesn't return. In both accounts, they offer a sacrifice after they land and the Gods promise never to send a flood like that again. The accounts differ on the length of the flood and what happens after the sacrifice with Utnapishtim being made immortal in the Epic of Gilgamesh.  
+
+The reasoning for the flood contrasts the two accounts, in the Epic of Gilgamesh it is selfish pride and discomfort while in the Biblical account it is sorrow over the wickedness of the created people. The preparation for the flood is very similar in both accounts having a man build an ark to save himself, his family, and two of each kind of animal which is sent to them. The ending of both accounts differs in the length of the flood but both describe an agreement never to send a flood of its magnitude again. The claim that the accounts were established from the same event is given credence by the similarities between both accounts. The Moral superiority of the Biblical flood account and the differences between accounts give good reason to believe that it was not copied from the Epic of Gilgamesh. 
