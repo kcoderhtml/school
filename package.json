@@ -13,7 +13,6 @@
     "@astrojs/check": "^0.9.2",
     "@astrojs/tailwind": "^5.1.0",
     "astro": "^4.13.2",
-    "printed": "^0.18.4",
     "tailwindcss": "^3.4.9",
     "typescript": "^5.5.4"
   },

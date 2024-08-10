@@ -1,6 +1,5 @@
 ---
 const { title } = Astro.props;
-import "printed";
 ---
 
 <html lang="en">
@@ -54,6 +53,30 @@ import "printed";
   @media screen and (max-width: 480px) {
     main {
       margin-top: 2rem;
+    }
+  }
+
+  /* Print styles */
+  @media print {
+    tr,
+    td,
+    th {
+      page-break-inside: avoid;
+    }
+    thead {
+      display: table-header-group;
+    }
+    .hide {
+      visibility: hidden;
+      display: none;
+    }
+
+    a:link,
+    a:visited {
+      color: #520;
+      background: transparent;
+      font-weight: bold;
+      text-decoration: underline;
     }
   }
 </style>
