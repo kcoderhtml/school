@@ -11,7 +11,7 @@ date: 2023-09-14
 > *Thesis Statement: The government has no place dictating what children should or shouldn’t be able to access online.*  
 
 
-**Introduction**
+## **Introduction**
 
 1. The government is trying to create privacy regulations to limit children's online usage  
    1. The USA Kids Online Safety Act (KOSA)  
