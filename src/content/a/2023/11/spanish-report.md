@@ -1,0 +1,12 @@
+---
+title: Spanish Report
+date: 2023-11-01
+---
+
+*Kieran Klukas*  
+*Carrie Klukas*  
+*Writing*  
+
+Spanish is a thriving language with over 490 million native speakers and 21 countries adopting it as their official language and is spoken in almost every country across the globe. One country where Spanish is spoken is Mexico, the 10th largest country in the world by population. It has a rich history dating back to around \~3000 BC including people groups like the Olmec, Maya, Zapotec, Teotihuacan, and Purepecha. The country has had a turbulent history since the introduction of Europeans, and is now ruled by a democracy with a neoliberal economic policy. The name Mexico comes from the Nahuatl (Aztec) “Mēxihco.” Much of Mexico’s current cuisine comes from the Spanish influence of the colonial era and the ingredients native to the country. Some dishes include:  pozole, mole sauce, barbacoa and tamale, chocolate, many types of breads, and tacos. Beverages such as atole, champurrado, milk chocolate and aguas frescas were born; desserts such as acitrón and crystallized sweets, rompope, cajeta, jericaya and the many dishes invented by nuns throughout the country.  
+
+Some of the first translations of the Bible into Spanish were done in the 14th century by Jews who orally translated the biblical readings into Spanish. The first manuscripts like the 1430 Alba Bible were created for both wealthy Jewish and Christian patrons. The first complete copy of the Bible in Spanish was made by Casiodoro de Reyna and was called “La Biblia del Oso” and is considered to be similar to the English KJV. This original translation was revised multiple times over the 17th, 19th, 20th, and 21st centuries and is still an official translation to be used in the Episcopal Church and the Anglican Communion. The official catholic Bible was originally partially translated into Castilian Spanish in the so-called Pre-Alfonsine version around 1200 but wasn’t published until 1785 after the Inquisition allowed bible translation just a few years prior. The most widely accepted Catholic bible in modern times though is the Jerusalem Bible which has been translated from Hebrew, Aramaic, and Greek with the exegetical notes being translated from French into Spanish, and was first published in 1967\.
