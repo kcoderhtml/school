@@ -1,0 +1,20 @@
+---
+title: How technology has changed the USA
+date: 2024-05-02
+---
+
+*Kieran Klukas*  
+*Carrie Klukas*  
+*Writing*  
+
+Technology has been the driving force behind many innovations in the US since its conception (quite literally; 8 of the founding fathers were scientists and inventors). The lightning rod, cotton gin, the concept of interchangeable parts, telegraph, transcontinental railroad and the inventions of the telephone and lightbulb were some of the early inventions in the US’s history. Those innovations took 200 years, but the pace started to pick up with the introduction of the assembly line automobile and powered flight, which paved the way for more advanced and personal inventions like the household appliance, radio, television, and broadcasting.  The invention of the transistor, was another great leap forward which ushered in the information age by allowing electronics to be built much smaller.  
+
+The information age was a giant leap forward in inventions and technology. Starting with the invention of the transistor and building momentum through ARPANET, the creation of the microprocessor, personal computer, World Wide Web, mobile phones, social media, online shops and businesses, and now we are here today. Our society is built on the shoulders of inventions and technology that was built because of the thoughts of an inventor inspired by that around them and those who have gone before them. Today we stand at an incredible point of technology where 5.35 billion people have access to the internet and can share ideas and inventions at a pace never before seen. We regularly see new companies and individuals coming up with a new device, program, or way of thinking about a problem, and it can almost feel over whelming how fast the pace of technology is.  
+
+Technology has affected our world in a myriad of ways, both in the personal sector and the business sector. We can work from home now, and we can watch movies from the comfort of our own phone. Our world has gotten simultaneously more expensive and cheaper at the same time, with computers and technological devices getting significantly cheaper than they were a few decades ago and at the same time the median price for a house has jumped more than 90 percent since the 1970s (adjusted for inflation). Tuition has gone up even more from $2,800 in 1970 for a single year of college education to $11,400 in 2021, almost a 300 percent increase.   
+
+The effects of technology have also been interestingly different from what we predicted a few decades ago. We envisioned a future straight out of science fiction, with bustling lunar colonies by 2040\. While space exploration continues, our focus has shifted towards more immediate concerns like climate change and resource management.  
+On the other hand, some advancements have surpassed even our wildest dreams. Back then, the pinnacle of mobile communication was the clunky brick phone, offering little more than voice calls. Today, we hold miniature supercomputers in our pockets, capable of connecting us to anyone on the planet, offering instant access to information and entertainment – a revolution that would have been mind-boggling just a few decades ago.   
+
+While these advancements are incredible and have made incredible advances in medicine, engineering, farming, and many other sectors, this constant connectedness also brings challenges. Issues like online privacy, social media addiction, and the potential displacement of jobs due to automation are pressing concerns that demand solutions. As we move forward, finding solutions to these problems, or perhaps even embracing the problem as a solution, are going to be crucial challenges in securing a future for us all. The spirit of invention and innovation that built America will undoubtedly lead to solutions for the challenges we face, paving the way for a future filled with even more incredible advancements and challenges.  
+Let the future begin\!
